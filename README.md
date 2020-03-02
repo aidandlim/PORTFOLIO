@@ -6,8 +6,6 @@
 
 ### Project List
 
-<br>
-
 #### 1. Aidan's
 
 > A responsive Single Page Application(SPA) using React
