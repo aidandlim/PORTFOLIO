@@ -1,5 +1,10 @@
 # PORTFOLIO
 
+### Description
+
+&nbsp;&nbsp;*NOT YET*
+
+### Project List
 |  <center>Title</center> |  <center>Description</center> |  <center>Demo</center> |  <center>Progress</center> |
 |--------|--------|--------|--------|
 |<a href="https://github.com/aidandlim/portfolio_aidan" title="sourcecode" alt="sourcecode">**Aidan's**</a> | Responsive Web Application for Introducing Myself | <center><a href="https://portal.aidandlim.com" title="demo" alt="demo">Visit Now</a></center> | <center>Completed</center> |
