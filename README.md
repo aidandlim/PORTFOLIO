@@ -2,7 +2,7 @@
 
 ### Description
 
-&nbsp;&nbsp;*NOT YET*
+&nbsp;&nbsp;&nbsp;&nbsp;*NOT YET*
 
 ### Project List
 |  <center>Title</center> |  <center>Description</center> |  <center>Demo</center> |  <center>Progress</center> |
