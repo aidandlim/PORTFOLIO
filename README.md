@@ -65,3 +65,15 @@
 > Responsive Web Application for Business Management Tool With Dashboard UI
 
 > Source Code : https://github.com/aidandlim/portfolio_progressive
+
+<br>
+
+#### 6. Repetitive
+
+> A responsive Single Page Application(SPA) using React & Node
+
+> Simple web application for learning english speaking skills
+
+> Demo Site : https://repetitive.aidandlim.com
+
+> Source Code : https://github.com/aidandlim/portfolio_repetitive
