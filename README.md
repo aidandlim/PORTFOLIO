@@ -74,6 +74,4 @@
 
 > Simple web application for learning english speaking skills
 
-> Demo Site : https://repetitive.aidandlim.com
-
 > Source Code : https://github.com/aidandlim/portfolio_repetitive
