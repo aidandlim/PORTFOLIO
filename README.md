@@ -72,6 +72,18 @@
 
 > A responsive Single Page Application(SPA) using React & Node
 
-> Simple web application for learning english speaking skills
+> A Simple web application for learning english speaking skills
 
 > Source Code : https://github.com/aidandlim/portfolio_repetitive
+
+<br>
+
+#### 7. Overview of COVID-19
+
+> A responsive Single Page Application(SPA) using React
+
+> A simple web application that shows COVID-19 analysis
+
+> Demo Site : https://covid19.aidandlim.com
+
+> Source Code : https://github.com/aidandlim/portfolio_coronavirus
